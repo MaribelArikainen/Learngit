@@ -7,5 +7,4 @@ change4
 change5
 change 4
 newchange 3
-nwchng 4
-newchange5
+newchang 4
